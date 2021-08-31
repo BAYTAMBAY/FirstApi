@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Api ile ibb yol çalışmalarını çekip. İlçe ve işlem olarak ekranda görünüyor
 
 Things you may want to cover:
 
